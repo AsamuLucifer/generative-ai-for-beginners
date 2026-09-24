@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+🇨🇳 **[点击查看中文版本](./README.zh-CN.md)** | **简体中文 README**
+
+> **生成式 AI 入门** — 微软官方开源课程，完整中文翻译版本
+
+</div>
+
+---
+
 ![Generative AI For Beginners](./images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst)
 
 ### 21 Lessons teaching everything you need to know to start building Generative AI applications
